@@ -108,7 +108,7 @@
 </div>
 
 </div>
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg)
