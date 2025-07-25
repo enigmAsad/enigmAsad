@@ -11,20 +11,7 @@
 </span>
 <h2>Tech Stack</h2>
 
-### 🚀 Skill Level Progression
-<div align="center">
-
-| Technology | Proficiency | Projects | Learning Path |
-|------------|-------------|----------|---------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=120&color=3776AB) | 15+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=120&color=F7DF1E) | 20+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=120&color=339933) | 12+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![75%](https://progress-bar.dev/75/?scale=100&title=Proficient&width=120&color=61DAFB) | 10+ | ![Proficient](https://img.shields.io/badge/Level-Proficient-orange?style=flat-square) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![70%](https://progress-bar.dev/70/?scale=100&title=Proficient&width=120&color=47A248) | 8+ | ![Proficient](https://img.shields.io/badge/Level-Proficient-orange?style=flat-square) |
-
-</div>
-
-### 🎯 Animated Tech Stack
+**Tech Stack:**
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -104,12 +91,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=for-the-badge)
 <!--END_SECTION:waka-->
 
-### 🎯 GitHub Metrics
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg">
-  <img alt="github metrics" src="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg" width="100%">
-</picture>
+
 
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
@@ -124,11 +106,9 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
 </div>
 
-### 🌈 3D Contribution Graph
-![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
-### 📈 Repository Analytics
-![Repo Analysis](https://repobeats.axiom.co/api/embed/your-repo-analytics-key.svg "Repo Analytics")
+
+
 
 </div>
 ## 🏆 GitHub Trophies
