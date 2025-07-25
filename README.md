@@ -15,9 +15,11 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&langs_count=8)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&theme=redical&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=enigmAsad&theme=radical)
 
