@@ -15,13 +15,13 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&cache_seconds=1800)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmAsad&theme=radical)](https://github.com/enigmAsad)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&theme=redical&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enigmAsad&theme=radical) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enigmAsad&theme=radical&utcOffset=5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enigmAsad&theme=radical) ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enigmAsad&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=enigmAsad&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=enigmAsad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 ## 🏆 GitHub Trophies
