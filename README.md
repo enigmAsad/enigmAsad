@@ -11,6 +11,21 @@
 </span>
 <h2>Tech Stack</h2>
 
+### 🚀 Skill Level Progression
+<div align="center">
+
+| Technology | Proficiency | Projects | Learning Path |
+|------------|-------------|----------|---------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=120&color=3776AB) | 15+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=120&color=F7DF1E) | 20+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=120&color=339933) | 12+ | ![Advanced](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![75%](https://progress-bar.dev/75/?scale=100&title=Proficient&width=120&color=61DAFB) | 10+ | ![Proficient](https://img.shields.io/badge/Level-Proficient-orange?style=flat-square) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![70%](https://progress-bar.dev/70/?scale=100&title=Proficient&width=120&color=47A248) | 8+ | ![Proficient](https://img.shields.io/badge/Level-Proficient-orange?style=flat-square) |
+
+</div>
+
+### 🎯 Animated Tech Stack
+
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,16 +58,77 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-ten-blush-41.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+### 👨‍💻 Coding Journey
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=1000&lines=Backend+Developer+%7C+DevOps+Engineer+%7C+AI+Enthusiast;Building+scalable+solutions+with+Python+%26+JavaScript;Passionate+about+GenAI+and+AIOps+technologies;Always+learning%2C+always+growing+🚀)](https://git.io/typing-svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true)
+### 🔥 Profile Views & Followers
+![Profile Views](https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/enigmAsad?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/enigmAsad?label=Total%20Stars&style=for-the-badge&color=yellow)
 
-![Top Languages](https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=8)
+### 📈 Detailed GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=enigmAsad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img width="48%" src="https://github-readme-stats-ten-blush-41.vercel.app/api?username=enigmAsad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=enigmAsad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" />
+
+<img width="48%" src="https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enigmAsad&repo=enigmAsad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+### 🏆 Achievement Showcase
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmAsad&theme=tokyonight" alt="Profile Summary" width="100%" />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enigmAsad&theme=tokyonight" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enigmAsad&theme=tokyonight" alt="Most Commit Language" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enigmAsad&theme=tokyonight" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enigmAsad&theme=tokyonight&utcOffset=5" alt="Productive Time" width="48%" />
+</div>
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=for-the-badge)
+<!--END_SECTION:waka-->
+
+### 🎯 GitHub Metrics
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg">
+  <img alt="github metrics" src="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/github-metrics.svg" width="100%">
+</picture>
+
+### 🌟 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
+
+### 💻 Most Used Languages (Detailed)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enigmAsad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" alt="WakaTime stats" />
+</div>
+
+### 🔥 Contribution Stats
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
+</div>
+
+### 🌈 3D Contribution Graph
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+
+### 📈 Repository Analytics
+![Repo Analysis](https://repobeats.axiom.co/api/embed/your-repo-analytics-key.svg "Repo Analytics")
 
 </div>
 ## 🏆 GitHub Trophies
