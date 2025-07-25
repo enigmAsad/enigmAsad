@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Asad Ghaffar</h1>
 
-- 👀 I'm interested in Backend Development, DevOps, GenAI and AIOps.
+- 👀 I'm interested in Backend, DevOps, GenAI and AIOps.
 - 🌱 I'm currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
 - Email me: asadghaffar.dev@gmail.com
 
