@@ -24,7 +24,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=enigmAsad&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-<img src="https://github.com/enigmAsad/enigmAsad/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg" alt="Snake animation" />
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
