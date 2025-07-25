@@ -15,11 +15,11 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&cache_seconds=1800&v=3)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&include_all_commits=true&count_private=true&card_width=445)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&include_all_commits=true&count_private=true&card_width=445&langs_count=10&cache_seconds=1800&v=3)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=enigmAsad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
