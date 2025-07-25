@@ -96,11 +96,6 @@
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
-### 💻 Most Used Languages (Detailed)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enigmAsad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" alt="WakaTime stats" />
-</div>
-
 ### 🔥 Contribution Stats
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
