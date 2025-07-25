@@ -1,14 +1,21 @@
-<h1>👋 Hi, I'm Asad Ghaffar</h1>
+<div align="center">
+  <h1 align="center">👋 Hi, I'm Asad Ghaffar</h1>
+  <h3 align="center">A passionate Backend Developer, DevOps Engineer, and AI Enthusiast.</h3>
+</div>
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asad-ghaffar-09a722320/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:asadghaffar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 - 👀 I'm interested in Backend, DevOps, GenAI and AIOps.
 - 🌱 I'm currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
-- Email me: asadghaffar.dev@gmail.com
 
-<h3>Reach Me</h3>
-<span>
-  
-<a href="https://www.linkedin.com/in/asad-ghaffar-09a722320/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-</span>
 <h2>Tech Stack</h2>
 
 **Languages:**  
