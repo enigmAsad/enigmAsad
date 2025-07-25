@@ -93,18 +93,14 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
 </div>
 
-
-
-
-
-</div>
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=enigmAsad&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
 </div>
 
+</div>
 ## 🐍 Contribution Snake
 <div align="center">
   
