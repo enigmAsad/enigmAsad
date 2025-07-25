@@ -19,7 +19,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enigmAsad&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=enigmAsad&theme=radical)
 
 </div>
 ## 🏆 GitHub Trophies
