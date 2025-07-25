@@ -23,10 +23,23 @@
 </div>
 ## 🏆 GitHub Trophies
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=enigmAsad&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-<img src="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg)
+
+</div>
+
+## 💭 Random Quote
+<div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 <!---
 enigmAsad/enigmAsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
