@@ -15,11 +15,11 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmAsad&theme=radical)](https://github.com/enigmAsad)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enigmAsad&theme=radical) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enigmAsad&theme=radical&utcOffset=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enigmAsad&theme=radical) ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enigmAsad&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=radical&include_all_commits=true&count_private=true&card_width=445)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=enigmAsad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
