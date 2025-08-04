@@ -70,9 +70,11 @@
 ### 📈 Detailed GitHub Analytics
 
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=enigmAsad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" />
-
-<img width="48%" src="https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=enigmAsad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" />
+<br>
+<img src="https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
 
 ### 🏆 Achievement Showcase
