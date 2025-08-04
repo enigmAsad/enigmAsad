@@ -78,20 +78,6 @@
 ### 🏆 Achievement Showcase
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmAsad&theme=tokyonight" alt="Profile Summary" width="100%" />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enigmAsad&theme=tokyonight" alt="Repos per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enigmAsad&theme=tokyonight" alt="Most Commit Language" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enigmAsad&theme=tokyonight" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enigmAsad&theme=tokyonight&utcOffset=5" alt="Productive Time" width="48%" />
-</div>
-
-
-
-
-
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
