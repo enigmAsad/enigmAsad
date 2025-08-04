@@ -77,9 +77,6 @@
 <img width="48%" src="https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 
-### 🏆 Achievement Showcase
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmAsad&theme=tokyonight" alt="Profile Summary" width="100%" />
-
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
