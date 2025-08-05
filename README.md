@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">👋 Hi, I'm Asad Ghaffar</h1>
-  <h3 align="center">A passionate Backend and AI Engineer and DevOps Enthusiast.</h3>
+  <h3 align="center">A passionate AI Engineer, Backend Developer and DevOps Enthusiast.</h3>
 </div>
 <br/>
 
