@@ -74,8 +74,6 @@
 
 <img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats-ten-blush-41.vercel.app/api/top-langs/?username=enigmAsad&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
 
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
