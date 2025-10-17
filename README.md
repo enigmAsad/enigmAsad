@@ -73,13 +73,6 @@
 ### 🌟 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
-### 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=enigmAsad&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-
-</div>
-
 
 ### 🐍 Contribution Snake
 <div align="center">
