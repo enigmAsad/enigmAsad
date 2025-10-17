@@ -16,7 +16,7 @@
 - 👀 I'm interested in Backend, DevOps, GenAI and AIOps.
 - 🌱 I'm currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
 
-<h2>Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,7 +51,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
 ### 👨‍💻 Coding Journey
