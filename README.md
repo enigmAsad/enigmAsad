@@ -11,6 +11,12 @@
   <a href="mailto:asadghaffar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://drive.google.com/file/d/1WkVRU17isJaH31rqjp_0RtHoqePZcDR-/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://asadghaffar.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 - 👀 I'm interested in Backend, DevOps, GenAI and AIOps.
