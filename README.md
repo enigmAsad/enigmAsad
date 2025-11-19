@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Asad%20Ghaffar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Scalable%20Solutions&descSize=20&descAlignY=60&descAlign=50" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Asad%20Ghaffar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20Strive%20for%20Excellence%20in%20Innovation&descSize=20&descAlignY=60&descAlign=50" alt="Header" width="100%">
 
   <!-- Typing SVG - Dynamic Roles -->
   <br/>
