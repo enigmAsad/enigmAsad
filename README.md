@@ -8,6 +8,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;DevOps+Enthusiast+%7C+GenAI+Explorer;Building+Automated+and+Scalable+Systems" alt="Typing SVG" />
   </a>
+  <br/>
+  <br/>
 
   <!-- Social Links -->
   <p>
@@ -24,9 +26,11 @@
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
     </a>
   </p>
+  <br/>
   
   <!-- Bio/Intro -->
   <p>🌱 Currently pursuing <b>Bachelors in Computer Science</b> from <b>COMSATS University Islamabad (CUI)</b></p>
+  <br/>
   <p>👀 Interested in <b>Backend</b>, <b>DevOps</b>, <b>GenAI</b>, and <b>AIOps</b></p>
   <br/>
 </div>
