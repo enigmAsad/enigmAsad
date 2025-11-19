@@ -1,26 +1,30 @@
 <div align="center">
-  <h1 align="center">👋 Hi, I'm Asad Ghaffar</h1>
-  <h3 align="center">A passionate AI Engineer, Backend Developer and DevOps Enthusiast.</h3>
+  <h1 align="center">Hi, I'm Asad Ghaffar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Backend+Developer;DevOps+Enthusiast+%26+GenAI+Explorer;Building+Scalable+Solutions+🚀" alt="Typing SVG" />
+  </a>
 </div>
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asad-ghaffar-09a722320/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:asadghaffar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1WkVRU17isJaH31rqjp_0RtHoqePZcDR-/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
   <a href="https://asadghaffar.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://drive.google.com/file/d/1WkVRU17isJaH31rqjp_0RtHoqePZcDR-/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
-- 👀 I'm interested in Backend, DevOps, GenAI and AIOps.
-- 🌱 I'm currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
+<div align="center">
+  <p>🌱 Currently pursuing <b>Bachelors in Computer Science</b> from <b>COMSATS University Islamabad (CUI)</b></p>
+  <p>👀 Interested in <b>Backend</b>, <b>DevOps</b>, <b>GenAI</b>, and <b>AIOps</b></p>
+</div>
 
 <h2 align="center">💻 Tech Stack</h2>
 
