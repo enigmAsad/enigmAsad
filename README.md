@@ -29,9 +29,12 @@
   <br/>
   
   <!-- Bio/Intro -->
-  <p>🌱 Currently pursuing <b>Bachelors in Computer Science</b> from <b>COMSATS University Islamabad (CUI)</b></p>
-  <br/>
-  <p>👀 Interested in <b>Backend</b>, <b>DevOps</b>, <b>GenAI</b>, and <b>AIOps</b></p>
+  <h3>
+    🌱 Currently pursuing <b>Bachelors in Computer Science</b> from <b>COMSATS University Islamabad (CUI)</b>
+  </h3>
+  <h3>
+    👀 Interested in <b>Backend</b>, <b>DevOps</b>, <b>GenAI</b>, and <b>AIOps</b>
+  </h3>
   <br/>
 </div>
 
