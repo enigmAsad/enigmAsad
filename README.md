@@ -5,7 +5,9 @@
 
   <!-- Typing SVG - Dynamic Roles -->
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;DevOps+Enthusiast+%7C+GenAI+Explorer;Building+Automated+and+Scalable+Systems+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;DevOps+Enthusiast+%7C+GenAI+Explorer;Building+Automated+and+Scalable+Systems" alt="Typing SVG" />
+  </a>
 
   <!-- Social Links -->
   <p>
@@ -68,7 +70,7 @@
 <div align="center">
 
 ### 👨‍💻 Coding Journey
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=1000&lines=Backend+Developer+%7C+AI+Engineer+%7C+DevOps+Enthusiast;Building+scalable+solutions+with+Python+%26+JavaScript;Passionate+about+GenAI+and+AIOps+technologies;Always+learning%2C+always+growing+🚀)](https://git.io/typing-svg)
+<!-- Typing SVG Removed -->
 
 ### 🔥 Profile Views & Followers
 ![Profile Views](https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge)
