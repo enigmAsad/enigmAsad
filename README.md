@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Asad%20Ghaffar&fontSize=74&fontAlign=50&fontAlignY=42&fontColor=FFFFFF&stroke=0D1117&strokeWidth=2&desc=I%20Strive%20for%20Excellence%20in%20Innovation&descSize=22&descAlign=50&descAlignY=70" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Asad%20Ghaffar&fontSize=74&fontAlign=50&fontAlignY=42&fontColor=FFFFFF&stroke=0D1117&strokeWidth=2&desc=I%20Strive%20for%20Excellence%20in%20Innovation.&descSize=22&descAlign=50&descAlignY=70" alt="Header" width="100%">
 
   <!-- Typing SVG - Dynamic Roles -->
   <br/>
@@ -38,7 +38,9 @@
   <br/>
 </div>
 
-<h2 align="center">💻 Tech Stack</h2>
+---
+
+<h2 align="center">Tech Stack</h2>
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -71,20 +73,20 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+---
 
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
 
-### 👨‍💻 Coding Journey
+### Coding Journey
 <!-- Typing SVG Removed -->
 
-### 🔥 Profile Views & Followers
+### Profile Views & Followers
 ![Profile Views](https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/enigmAsad?label=Followers&style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/enigmAsad?label=Total%20Stars&style=for-the-badge&color=yellow)
 
-### 📈 Detailed GitHub Analytics
+### Detailed GitHub Analytics
 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=enigmAsad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" />
@@ -92,24 +94,28 @@
 <img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
 
 
-### 🌟 Contribution Activity
+### Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 
-### 🐍 Contribution Snake
+### Contribution Snake
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg)
 
 </div>
 
-## 💭 Random Quote
+</div>
+
+---
+
+<h2 align="center">Random Quote</h2>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 <!---
-enigmAsad/enigmAsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+enigmAsad/enigmAsad is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
