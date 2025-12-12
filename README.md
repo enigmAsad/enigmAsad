@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Asad%20Ghaffar&amp;fontSize=74&amp;fontAlign=50&amp;fontAlignY=42&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2&amp;desc=I%20Strive%20for%20Excellence%20in%20Innovation.&amp;descSize=22&amp;descAlign=50&amp;descAlignY=70" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=260&amp;section=header&amp;text=Asad%20Ghaffar&amp;fontSize=74&amp;fontAlign=50&amp;fontAlignY=42&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2&amp;desc=I%20Strive%20for%20Excellence%20in%20Innovation.&amp;descSize=22&amp;descAlign=50&amp;descAlignY=70" alt="Header" width="100%">
 
   <!-- Typing SVG - Dynamic Roles -->
   <br/>
@@ -40,7 +40,7 @@
 
 <!-- Section Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=100&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=50&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2" alt="Tech Stack" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=50&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2" alt="Tech Stack" width="100%">
 </div>
 
 ### Languages
