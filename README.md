@@ -40,7 +40,7 @@
 
 <!-- Section Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:0D1117,100:1F6FEB&amp;height=90&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=38&amp;fontAlign=50&amp;fontAlignY=50&amp;fontColor=FFFFFF&amp;stroke=58A6FF&amp;strokeWidth=1" alt="Tech Stack" width="80%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Tech%20Stack&fontSize=30&fontAlign=50&fontAlignY=40" alt="Tech Stack" width="100%">
 </div>
 
 **Languages:**  
