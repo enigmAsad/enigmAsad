@@ -38,9 +38,10 @@
   <br/>
 </div>
 
----
-
-<h2 align="center">Tech Stack</h2>
+<!-- Section Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Tech%20Stack&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Tech Stack" width="85%">
+</div>
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -73,9 +74,10 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
----
-
-<h2 align="center">GitHub Stats</h2>
+<!-- Section Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:0D1117&height=120&section=header&text=GitHub%20Stats&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="GitHub Stats" width="85%">
+</div>
 <div align="center">
 
 ### Coding Journey
@@ -107,9 +109,10 @@
 
 </div>
 
----
-
-<h2 align="center">Random Quote</h2>
+<!-- Section Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Random%20Quote&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Random Quote" width="85%">
+</div>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
