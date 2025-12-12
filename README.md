@@ -40,7 +40,7 @@
 
 <!-- Section Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Tech%20Stack&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Tech Stack" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=90&section=header&text=Tech%20Stack&fontSize=38&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Tech Stack" width="80%">
 </div>
 
 **Languages:**  
@@ -76,31 +76,41 @@
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 <!-- Section Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:0D1117&height=120&section=header&text=GitHub%20Stats&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="GitHub Stats" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1F6FEB,100:0D1117&height=90&section=header&text=GitHub%20Stats&fontSize=38&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="GitHub Stats" width="80%">
 </div>
 <div align="center">
 
-### Coding Journey
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Coding%20Journey&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Coding Journey" width="60%">
+</div>
 <!-- Typing SVG Removed -->
 
-### Profile Views & Followers
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Profile%20Views%20%26%20Followers&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Profile Views & Followers" width="60%">
+</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/enigmAsad?label=Followers&style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/enigmAsad?label=Total%20Stars&style=for-the-badge&color=yellow)
 
-### Detailed GitHub Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Detailed%20GitHub%20Analytics&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Detailed GitHub Analytics" width="60%">
+</div>
 
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=enigmAsad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
 <img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
 
 
-### Contribution Activity
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Activity&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Activity" width="60%">
+</div>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 
-### Contribution Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Snake&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Snake" width="60%">
+</div>
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg)
@@ -111,7 +121,7 @@
 
 <!-- Section Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Random%20Quote&fontSize=48&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Random Quote" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=90&section=header&text=Random%20Quote&fontSize=38&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Random Quote" width="80%">
 </div>
 <div align="center">
   
