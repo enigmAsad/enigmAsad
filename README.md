@@ -80,53 +80,37 @@
 </div>
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Coding%20Journey&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Coding Journey" width="60%">
-</div>
-<!-- Typing SVG Removed -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Coding%20Journey&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Coding Journey" width="60%">
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Profile%20Views%20%26%20Followers&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Profile Views & Followers" width="60%">
-</div>
-![Profile Views](https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/enigmAsad?label=Followers&style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/enigmAsad?label=Total%20Stars&style=for-the-badge&color=yellow)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Profile%20Views%20%26%20Followers&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Profile Views & Followers" width="60%">
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=enigmAsad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/enigmAsad?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/enigmAsad?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Detailed%20GitHub%20Analytics&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Detailed GitHub Analytics" width="60%">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Detailed%20GitHub%20Analytics&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Detailed GitHub Analytics" width="60%">
+<br/><br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats"/>
 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enigmAsad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enigmAsad?cardType=github&theme=tokyonight&preferLogin=false" alt="enigmAsad's GitHub Stats" />
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Activity&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Activity" width="60%">
-</div>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Activity&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Activity" width="60%">
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enigmAsad&custom_title=Asad's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Snake&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Snake" width="60%">
-</div>
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=header&text=Contribution%20Snake&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=58A6FF" alt="Contribution Snake" width="60%">
+<br/><br/>
+<img src="https://raw.githubusercontent.com/enigmAsad/enigmAsad/output/snake.svg" alt="Snake animation" width="95%"/>
 
 </div>
 
 <!-- Section Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=90&section=header&text=Random%20Quote&fontSize=38&fontAlign=50&fontAlignY=50&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1" alt="Random Quote" width="80%">
-</div>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </div>
 <!---
 enigmAsad/enigmAsad is a special repository because its `README.md` (this file) appears on your GitHub profile.
