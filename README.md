@@ -13,7 +13,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/asad-ghaffar-09a722320/" target="_blank">
+    <a href="https://www.linkedin.com/in/enigmasad/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:asadghaffar.dev@gmail.com">
