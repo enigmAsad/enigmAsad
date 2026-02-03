@@ -30,7 +30,7 @@
 </div>
 
 <!-- Section Header -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=40&amp;fontAlign=20&amp;fontAlignY=50&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2" alt="Tech Stack" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=40&amp;fontAlign=15&amp;fontAlignY=50&amp;fontColor=FFFFFF&amp;stroke=0D1117&amp;strokeWidth=2" alt="Tech Stack" width="100%">
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
